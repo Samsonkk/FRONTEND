@@ -1,0 +1,24 @@
+body{
+    padding: 150px;
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:0px;
+    border: 5px solid rgb(25, 0, 151);
+    background-color: rgb(164, 153, 228);
+}
+img{
+    border-radius:100%;
+}
+h2{
+    font-size: 75px;
+    margin-top: -48px;
+}
+h3{
+    margin-top:-80px;
+    margin-left: 323px;
+}
+h5{
+    font-style: 2px bold black;
+    font-variant: small-caps;
+}
